@@ -1,5 +1,5 @@
-## 🎬 Netflix Titles Dataset Analysis
-# 📌 Overview
+# 🎬 Netflix Titles Dataset Analysis
+## 📌 Overview
 
 This project explores the Netflix Titles Dataset, which contains information about movies and TV shows available on Netflix.
 It includes details like title, type, release year, duration, rating, country, and more.
